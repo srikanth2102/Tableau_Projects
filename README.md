@@ -1,5 +1,5 @@
 # Tableau_Projects
-In this Repository you will be abe=le to find Data Visualizations projects along with their datasets.
+In this Repository you will be able to find Data Visualizations projects along with their datasets.
 
 ## Covid-19 Data Visualization
 ### Sample Viz
