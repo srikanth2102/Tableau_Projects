@@ -12,3 +12,9 @@ In this Repository you will be able to find Data Visualizations projects along w
 
 ![IMDb Data Analysis](https://user-images.githubusercontent.com/66214509/133302951-7bcdf918-3fb8-4f4b-84b9-f576aa3cc9a1.png)
 
+## Netflix Data Visualization
+### DashBoard
+
+![Netflix](https://user-images.githubusercontent.com/66214509/134298472-c514b631-d3d9-4b5d-99e2-c6bdfcec130c.png)
+
+
